@@ -1,0 +1,9 @@
+[package]
+name = "wasm-serialize"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wasm-bindgen = { workspace = true }
+js-sys = { workspace = true }
+
